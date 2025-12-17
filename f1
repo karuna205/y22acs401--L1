@@ -1,2 +1,5 @@
 Hello, this is a sample file created
 [3]+ stopped                   cat > f1
+status : modified.
+[4]+ stopped                         cat >> f1
+status : modified
